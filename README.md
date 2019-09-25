@@ -1,1 +1,1 @@
-# Transition-Property
+# Show the functionality of the Transition Property
